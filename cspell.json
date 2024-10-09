@@ -1,5 +1,5 @@
 {
-  "words": ["commitlint", "leetcode"],
+  "words": ["commitlint", "leetcode", "nums"],
   "ignorePaths": [
     "node_modules",
     "dist",
