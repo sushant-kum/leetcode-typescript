@@ -1,0 +1,4 @@
+{
+  "*.{js,ts}": ["eslint --fix"],
+  "*.{js,json,md,ts}": "pretty-quick --staged --verbose"
+}

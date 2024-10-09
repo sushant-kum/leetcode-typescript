@@ -1,0 +1,15 @@
+{
+  "words": ["commitlint", "leetcode"],
+  "ignorePaths": [
+    "node_modules",
+    "dist",
+    "build",
+    "coverage",
+    "junit-reports",
+    ".eslintcache",
+    "src/TESTS*.xml",
+    "tools",
+    "*.svg"
+  ],
+  "language": "en,en-GB,en-US"
+}
