@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Leetcode problems solved using TypeScript.",
   "scripts": {
-    "tsx": "tsx",
     "prepare": "husky",
-    "start": "nodemon",
+    "start": "tsx",
+    "start:dev": "nodemon",
+    "debug": "tsx --inspect-brk=5858",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "format": "prettier *.{css,html,js,json,md,scss,ts}",
